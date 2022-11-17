@@ -10,6 +10,6 @@
       {"type": "perf", "section": "Performance Optimizations"},
       {"type": "test", "hidden": true}
     ],
-    "commitUrlFormat": "https://github.com/mokkapps/changelog-generator-demo/commits/{{hash}}",
-    "compareUrlFormat": "https://github.com/mokkapps/changelog-generator-demo/compare/{{previousTag}}...{{currentTag}}"
+    "commitUrlFormat": "https://github.com/NitZero44/Changelog-practice/commits/{{hash}}",
+    "compareUrlFormat": "https://github.com/NitZero44/Changelog-practice/compare/{{previousTag}}...{{currentTag}}"
   }
