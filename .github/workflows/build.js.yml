@@ -30,8 +30,3 @@ jobs:
     - run: npm run build --if-present
 
     - run: npm test --if-present
-
-    - name: generating changelog
-      uses: 
-        repo-token: ${{ secrets.GITHUB_TOKEN }}
-    - run : npm run release
