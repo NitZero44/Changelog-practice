@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.2.0](https://github.com/NitZero44/Changelog-practice/compare/v0.1.1...v0.2.0) (2022-11-18)
+
+
+### ⚠ BREAKING CHANGES
+
+* again removed changelog.yml file
+* removed the action file for generating changelog
+
+### Bug Fixes
+
+* add git config jobs in workflow ([3784031](https://github.com/NitZero44/Changelog-practice/commits/37840316a7e3094e3f6cc4d330e18d4d4016e032))
+* add github token as permission ([dd7386f](https://github.com/NitZero44/Changelog-practice/commits/dd7386f907011003f1bfc66c38783e4030a8a9fa))
+* added a checkout action ([15bc3fe](https://github.com/NitZero44/Changelog-practice/commits/15bc3fecfa658ec0aef05f28bd0fdb22fcc9b638))
+* added token in seperate job ([a61777c](https://github.com/NitZero44/Changelog-practice/commits/a61777c469ebbb43a9698e3e061b296309e0b5ab))
+* adding new yml file ([4b94d40](https://github.com/NitZero44/Changelog-practice/commits/4b94d40d061cefb6d6d14d0c07dc4aef94dc7eaa))
+* removed action for generating changelog ([45dda83](https://github.com/NitZero44/Changelog-practice/commits/45dda83d28812fd55ce7e056416ac127dbb6f8f7))
+* removing -name in yml file ([8b8d120](https://github.com/NitZero44/Changelog-practice/commits/8b8d120177da666870999630575713cec1ac62e2))
+* removing file ([49047b7](https://github.com/NitZero44/Changelog-practice/commits/49047b741db2ed4fcb565ce8cd395b3f286e268e))
+* running run release in same job ([b113200](https://github.com/NitZero44/Changelog-practice/commits/b113200d06049b9ad2738835f5e8005beef3473e))
+
 ### [0.1.1](https://github.com/NitZero44/Changelog-practice/compare/v0.1.0...v0.1.1) (2022-11-17)
 
 
