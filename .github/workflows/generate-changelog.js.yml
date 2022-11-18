@@ -13,8 +13,6 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Configure comitter
-      with:
-        token: ${{ secrets.PAT }}
       run: |
         git config user.name "TEST"
         git config user.email "<>"
