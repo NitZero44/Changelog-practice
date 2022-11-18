@@ -22,7 +22,6 @@ jobs:
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v3
       with:
-        repo-token: ${{ secrets.GITHUB_TOKEN }}
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
 
@@ -32,4 +31,7 @@ jobs:
 
     - run: npm test --if-present
 
+    - name: generating changelog
+      uses: 
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
     - run : npm run release
