@@ -18,4 +18,4 @@ jobs:
         git config user.email "<>"
     
     - name: Standard version
-    - uses: qzb/standard-version@v1.0.5
+      uses: qzb/standard-version@v1.0.5
