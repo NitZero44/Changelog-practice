@@ -1,0 +1,15 @@
+
+{
+    "types": [
+      {"type": "feat", "section": "Features"},
+      {"type": "fix", "section": "Bug Fixes"},
+      {"type": "chore", "hidden": true},
+      {"type": "docs", "section": "Documentation Updates"},
+      {"type": "style", "hidden": true},
+      {"type": "refactor", "section": "Code Refactors"},
+      {"type": "perf", "section": "Performance Optimizations"},
+      {"type": "test", "hidden": true}
+    ],
+    "commitUrlFormat": "https://github.com/NitZero44/Changelog-practice/commits/{{hash}}",
+    "compareUrlFormat": "https://github.com/NitZero44/Changelog-practice/compare/{{previousTag}}...{{currentTag}}"
+  }

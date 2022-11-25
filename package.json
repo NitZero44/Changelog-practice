@@ -1,13 +1,17 @@
 {
   "name": "my-app",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "release": "standard-version",
+    "release:minor": "standard-version --release-as minor",
+    "release:major": "standard-version --release-as major",
+    "release:patch": "standard-version --release-as patch"
   },
   "dependencies": {
     "@types/node": "18.11.9",
@@ -23,6 +27,7 @@
   "devDependencies": {
     "@commitlint/cli": "^17.2.0",
     "@commitlint/config-conventional": "^17.2.0",
-    "husky": "^8.0.0"
+    "husky": "^8.0.0",
+    "standard-version": "^9.5.0"
   }
 }
