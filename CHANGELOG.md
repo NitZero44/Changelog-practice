@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 1.0.1 (2022-11-25)
+
+
+### Bug Fixes
+
+* removing build commands ([cae86c8](https://github.com/NitZero44/Changelog-practice/commits/cae86c89037e83504bf435e43f984b55b1cf3862))
+
 ## 1.0.0 (2022-11-25)
 
 
