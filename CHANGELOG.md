@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0](https://github.com/NitZero44/Changelog-practice/compare/v0.2.0...v1.0.0) (2022-11-25)
+
+
+### Bug Fixes
+
+* new changes ([9f19a97](https://github.com/NitZero44/Changelog-practice/commits/9f19a97269c78605a317480c4aeef1d574039436))
+* using markertplace actions ([f6a5312](https://github.com/NitZero44/Changelog-practice/commits/f6a5312d4d0bcb4e0c9789fd15dbdb4989afb3a1))
+
 ## [0.2.0](https://github.com/NitZero44/Changelog-practice/compare/v0.1.1...v0.2.0) (2022-11-18)
 
 
