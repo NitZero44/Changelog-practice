@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 1.0.0 (2022-11-25)
+
+
+### Features
+
+* running as major ([72e99ff](https://github.com/NitZero44/Changelog-practice/commits/72e99ff37aadf1fd3a23ea809f34f1209d8aa482))
+
 ### 0.2.2 (2022-11-25)
 
 ### 0.2.1 (2022-11-18)
